@@ -53,5 +53,5 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 For any queries or suggestions, feel free to contact:
 
-Your Name
+Aditi Patel
 📩 aditipatel2193@gmail.com
